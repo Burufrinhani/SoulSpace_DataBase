@@ -80,6 +80,3 @@ CREATE TABLE Plano_Alimentar (
     objetivo VARCHAR(100),
     duracao INT
 );
-
--- Relacionamentos N:N se forem necessários (não estão explícitos no modelo, mas podem ser úteis)
--- Ex: Relacionar usuários com exercícios, planos alimentares, meditações etc.
